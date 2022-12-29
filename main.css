@@ -1609,6 +1609,10 @@ For devices with smaller width like mobile phone
          font-size: 15px;
          opacity: .8;
      }
+     .number{
+        color:whitesmoke;
+        
+     }
      .contact-info-icon-text p{
          font-size: 14px;
          opacity: .7;
@@ -1996,6 +2000,9 @@ for tabs and large phones
                 font-weight: 400;
                 color: whitesmoke;
                 padding: 20px;
+            }
+            .number{
+             color:whitesmoke;
             }
             .contact-info-icon-text p{
                 color:whitesmoke;
