@@ -1491,8 +1491,8 @@ For devices with smaller width like mobile phone
                 position: absolute;
                 top: 0;
                 left: 0;
-                background: whitesmoke;
-                opacity: .7;
+                background: #101010;
+                opacity: .8;
                 pointer-events: none;
             }
             .contact-form{
@@ -1610,7 +1610,7 @@ For devices with smaller width like mobile phone
                 opacity: .8;
             }
             .contact-info-icon-text p{
-                color:whitesmoke;
+     
                 font-size: 14px;
                 opacity: .7;
             }
