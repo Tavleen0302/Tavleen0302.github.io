@@ -1601,7 +1601,7 @@ For devices with smaller width like mobile phone
         
         font-size: 14px;
         opacity: 0.7;
-        color:whitesmoke;
+        color:whitesmoke !important;
        text-decoration: none;
         
      }
@@ -1997,7 +1997,7 @@ for tabs and large phones
         
         font-size: 14px;
         opacity: 0.7;
-        color:whitesmoke;
+        color:whitesmoke !important;
        text-decoration: none;
         
      }
