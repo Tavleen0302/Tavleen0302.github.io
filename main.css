@@ -1610,6 +1610,7 @@ For devices with smaller width like mobile phone
                 opacity: .8;
             }
             .contact-info-icon-text p{
+                color:whitesmoke;
                 font-size: 14px;
                 opacity: .7;
             }
