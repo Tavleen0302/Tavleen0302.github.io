@@ -1411,8 +1411,8 @@ For devices with smaller width like mobile phone
         justify-content: center;
         padding: 1.5%;
         padding-right: 2%;
-    padding-top: 50px;
-    padding-bottom: 40px;
+        padding-top: 50px;
+        padding-bottom: 40px;
     }
     .portfolio-text{
         width: 90%;
@@ -2061,6 +2061,11 @@ for tabs and large phones
                 font-weight: 400;
                 color: whitesmoke;
                 padding: 20px;
+            }
+            .contact-info-icon-text p{
+                color:whitesmoke;
+                font-size: 14px;
+                opacity: .7;
             }
             .contect-info-content-line{
                 height: auto;
