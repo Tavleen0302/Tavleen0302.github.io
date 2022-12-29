@@ -1597,7 +1597,7 @@ For devices with smaller width like mobile phone
          font-size: 15px;
          opacity: .8;
      }
-     .number{
+     .number a{
         
         font-size: 14px;
         opacity: 0.7;
@@ -1993,7 +1993,7 @@ for tabs and large phones
                 color: whitesmoke;
                 padding: 20px;
             }
-            .number{
+            .number a{
         
         font-size: 14px;
         opacity: 0.7;
