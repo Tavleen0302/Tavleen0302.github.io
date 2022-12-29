@@ -2004,12 +2004,13 @@ for tabs and large phones
             }
             .number{
              color:whitesmoke;
-             text-decoration:none;
+             
             }
             .contact-info-icon-text p{
                 color:whitesmoke;
                 font-size: 14px;
                 opacity: .7;
+                text-decoration:none;
             }
             .contect-info-content-line{
                 height: auto;
