@@ -1611,6 +1611,7 @@ For devices with smaller width like mobile phone
      }
      .number{
         color:whitesmoke;
+       text-decoration: none;
         
      }
      .contact-info-icon-text p{
@@ -2003,6 +2004,7 @@ for tabs and large phones
             }
             .number{
              color:whitesmoke;
+             text-decoration:none;
             }
             .contact-info-icon-text p{
                 color:whitesmoke;
