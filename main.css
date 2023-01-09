@@ -45,7 +45,7 @@ input[type=number] {
       height:100vh;
       position: fixed;
       z-index:100;
-      font-family: times new roman;
+      font-family: Copperplate;
       background-color: #202020;
       color: whitesmoke;
       font-size: 70px;
@@ -255,7 +255,7 @@ body{
 .header-content .firstline{
     z-index: 2;
     font-weight:700;
-    font-family: poppins;
+    font-family: Copperplate;
     font-size: 65px;
 }
 .header-content .secondline{
@@ -319,7 +319,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    font-family:poppins;
+    font-family:Copperplate;
 }
 .navigation-links a{
     padding:10px;
@@ -426,7 +426,7 @@ body{
     align-items: center;
     justify-content: center;
     font-size: 45px;
-    font-family: raleway;
+    font-family: Copperplate;
     color: whitesmoke;
     padding:10px;
     padding-bottom: 30px;
@@ -437,7 +437,7 @@ body{
     color: whitesmoke;
     justify-content: center;
     font-size: 20px;
-    font-family: poppins;
+    font-family: Lucida Sans;
     width: 50%;
     padding: 30px;
     font-weight: 400;
@@ -523,7 +523,7 @@ body{
     align-items: center;
     justify-content: center;
     font-size: 45px;
-    font-family: raleway;
+    font-family: Copperplate;
     color: whitesmoke;
     padding:10px;
     padding-bottom: 30px;
@@ -583,7 +583,7 @@ body{
     box-shadow:0px 0px 0px 400px #c70039 ;
 }
 .service-description{
-    font-family: poppins;
+    font-family: Lucida Sans;
     color:whitesmoke;
     position: relative;
     display: inline-block;
@@ -613,7 +613,7 @@ body{
     align-items: center;
     justify-content: center;
     font-size: 45px;
-    font-family: raleway;
+    font-family: Copperplate;
     color: whitesmoke;
     padding:10px;
     padding-bottom: 30px;
@@ -631,7 +631,7 @@ body{
     width: 45%;
     padding: 0%;
     position: relative;
-    font-family: poppins;
+    font-family: Lucida Sans;
     color:whitesmoke;
     display: inline-block;
     padding:1.5%;
@@ -676,7 +676,7 @@ body{
     height: 80%;
     display: flex;
     align-items: center;
-    font-family: poppins;
+    font-family: Lucida Sans;
     justify-content: center;
     transition: all .4s ease;
     width:100%;
@@ -717,7 +717,7 @@ body{
     align-items: center;
     justify-content: center;
     font-size: 45px;
-    font-family: raleway;
+    font-family: Copperplate;
     transition: all .4s ease;
     color: whitesmoke;
     padding:10px;
@@ -730,7 +730,7 @@ body{
     opacity:.8;
     display: block;
     font-size: 20px;
-    font-family: raleway;
+    font-family: Copperplate;
     padding: 8px;
     padding-top: 15px;
     color: whitesmoke;
@@ -764,7 +764,7 @@ padding-bottom: 40px;
 
 .portfolio-text h2{
     font-size: 35px;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-weight: 200;
     padding: 20px;
     color: #c70039;
@@ -773,14 +773,14 @@ padding-bottom: 40px;
 .portfolio-text p{
     font-size: 16px;
     opacity: .8;
-    font-family: poppins;
+    font-family:Lucida Sans;
     font-weight: 200;
     padding: 20px;
 }
 .portfolio-text button{
     font-size: 16px;
     opacity: .8;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-weight: 200;
     padding: 10px 20px;
     background:transparent;
@@ -906,7 +906,7 @@ padding-bottom: 40px;
     align-items: center;
     justify-content: center;
     font-size: 45px;
-    font-family: raleway;
+    font-family:Copperplate;
     color: whitesmoke;
     padding:10px;
     padding-bottom: 30px;
@@ -917,7 +917,7 @@ padding-bottom: 40px;
     padding: 10px;
     color: whitesmoke;
     opacity: .9;
-    font-family:raleway;
+    font-family:Copperplate;
     font-size: 18px;
 }
 .contact-content{
@@ -983,12 +983,12 @@ form{
     background: #050505;
     border:none;
     color: whitesmoke;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-size: 18px;
 }
 .form-header{
     font-size: 24px;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-weight: 400;
     color: whitesmoke;
     padding: 28px;
@@ -1002,7 +1002,7 @@ form{
     background: #050505;
     border:none;
     color: whitesmoke;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-size: 18px;
 }
 .input-textarea{
@@ -1015,12 +1015,12 @@ form{
     background: #050505;
     border:none;
     color: whitesmoke;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-size: 18px;
 }
 form button{
     padding:8px 24px;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-size:20px;
     color: whitesmoke;
     background:#BB0035;
@@ -1033,7 +1033,7 @@ form button{
 }
 .reset{
     padding:2px 12px;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-size:20px;
     color: whitesmoke;
     background:#BB0035;
@@ -1050,7 +1050,7 @@ form button:hover{
     position: relative;
     z-index: 2;
     font-size: 24px;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-weight: 400;
     color: whitesmoke;
     padding: 30px;
@@ -1069,7 +1069,7 @@ form button:hover{
 .contact-info-icon-text{
     color: whitesmoke;
     padding:15px;
-    font-family: poppins;
+    font-family: Lucida Sans;
 }
   .number{
         opacity: 0.7;
@@ -1097,7 +1097,7 @@ form button:hover{
     color: whitesmoke;
     display: flex;
     flex-direction: row;
-    font-family: poppins;
+    font-family: Lucida Sans;
     align-items: center;
     justify-content: center;
 }
@@ -1196,7 +1196,7 @@ form button:hover{
     width:150px;
     padding: 10px;
     background: whitesmoke;
-    font-family: poppins;
+    font-family: Lucida Sans;
     font-size: 16px;
     display: flex;
     color: black;
@@ -1229,7 +1229,7 @@ For devices with smaller width like mobile phone
         justify-content: center;
         flex-direction: column;
         color: whitesmoke;
-        font-family: raleway;
+        font-family: Copperplate;
         font-weight: 500;
         letter-spacing: 2px;
         font-size: 40px;
@@ -1306,7 +1306,7 @@ For devices with smaller width like mobile phone
 
         justify-content: center;
         font-size: 35px;
-        font-family: raleway;
+        font-family: Copperplate;
         padding:10px;
         font-weight: 900;
     }
@@ -1314,7 +1314,7 @@ For devices with smaller width like mobile phone
         color: whitesmoke;
         justify-content: center;
         font-size: 20px;
-        font-family: poppins;
+        font-family: Lucida Sans;
         width: 95%;
         padding: 10px;
         font-weight: 400;
@@ -1418,14 +1418,14 @@ For devices with smaller width like mobile phone
     }
      .portfolio-text h2{
          font-size: 22px;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-weight: 200;
          padding: 10px;
      }
      .portfolio-text p{
          font-size: 15px;
          opacity: .8;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-weight: 200;
          padding: 15px;
      }
@@ -1516,12 +1516,12 @@ For devices with smaller width like mobile phone
          background: #050505;
          border:none;
          color: whitesmoke;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-size: 16px;
      }
      .form-header{
          font-size: 22px;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-weight: 400;
          color: whitesmoke;
          padding: 20px;
@@ -1536,7 +1536,7 @@ For devices with smaller width like mobile phone
          background: #050505;
          border:none;
          color: whitesmoke;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-size: 16px;
      }
      .input-textarea{
@@ -1549,13 +1549,13 @@ For devices with smaller width like mobile phone
          background: #050505;
          border:none;
          color: whitesmoke;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-size: 16px;
 
      }
      form button{
          padding:8px 24px;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-size:20px;
          color: whitesmoke;
          opacity: .8;
@@ -1572,7 +1572,7 @@ For devices with smaller width like mobile phone
          position: relative;
          z-index: 2;
          font-size: 24px;
-         font-family: poppins;
+         font-family: Lucida Sans;
          font-weight: 400;
          color: whitesmoke;
          padding: 20px;
@@ -1591,7 +1591,7 @@ For devices with smaller width like mobile phone
      .contact-info-icon-text{
          color: whitesmoke;
          padding:15px;
-         font-family: poppins;
+         font-family: Lucida Sans;
      }
      .contact-info-icon-text h6{
          font-size: 15px;
@@ -1633,7 +1633,7 @@ for tabs and large phones
         justify-content: center;
         flex-direction: column;
         color: whitesmoke;
-        font-family: raleway;
+        font-family: Copperplate;
         font-weight: 500;
         letter-spacing: 2px;
         font-size: 40px;
@@ -1706,7 +1706,7 @@ for tabs and large phones
         color: whitesmoke;
         justify-content: center;
         font-size: 45px;
-        font-family: raleway;
+        font-family: Copperplate;
         padding:15px;
         font-weight: 900;
     }
@@ -1714,7 +1714,7 @@ for tabs and large phones
         color: whitesmoke;
         justify-content: center;
         font-size: 40px;
-        font-family: poppins;
+        font-family: Lucida Sans;
         width: 95%;
         padding: 25px;
         font-weight: 400;
@@ -1835,14 +1835,14 @@ for tabs and large phones
         }
             .portfolio-text h2{
                 font-size: 35px;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-weight: 200;
                 padding: 15px;
             }
             .portfolio-text p{
                 font-size: 20px;
                 opacity: .8;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-weight: 200;
                 padding: 15px;
             }
@@ -1933,12 +1933,12 @@ for tabs and large phones
                 background: #050505;
                 border:none;
                 color: whitesmoke;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-size: 16px;
             }
             .form-header{
                 font-size: 22px;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-weight: 400;
                 color: whitesmoke;
                 padding: 20px;
@@ -1953,7 +1953,7 @@ for tabs and large phones
                 background: #050505;
                 border:none;
                 color: whitesmoke;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-size: 16px;
             }
             .input-textarea{
@@ -1966,12 +1966,12 @@ for tabs and large phones
                 background: #050505;
                 border:none;
                 color: whitesmoke;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-size: 16px;
             }
             form button{
                 padding:8px 24px;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-size:20px;
                 color: whitesmoke;
                 opacity: .8;
@@ -1988,7 +1988,7 @@ for tabs and large phones
                 position: relative;
                 z-index: 2;
                 font-size: 24px;
-                font-family: poppins;
+                font-family: Lucida Sans;
                 font-weight: 400;
                 color: whitesmoke;
                 padding: 20px;
@@ -2134,7 +2134,7 @@ for tabs and large phones
         align-items: center;
         justify-content: center;
         font-size: 45px;
-        font-family: raleway;
+        font-family: Copperplate;
         color: whitesmoke;
         padding:10px;
         padding-bottom: 30px;
@@ -2145,7 +2145,7 @@ for tabs and large phones
         padding: 10px;
         color: whitesmoke;
         opacity: .9;
-        font-family:raleway;
+        font-family:Copperplate;
         font-size: 18px;
     }
     .contact-content{
@@ -2209,12 +2209,12 @@ for tabs and large phones
         background: #050505;
         border:none;
         color: whitesmoke;
-        font-family: poppins;
+        font-family: Lucida Sans;
         font-size: 18px;
     }
     .form-header{
         font-size: 24px;
-        font-family: poppins;
+        font-family: Lucida Sans;
         font-weight: 400;
         color: whitesmoke;
         padding: 20px;
@@ -2229,7 +2229,7 @@ for tabs and large phones
         background: #050505;
         border:none;
         color: whitesmoke;
-        font-family: poppins;
+        font-family: Lucida Sans;
         font-size: 18px;
     }
     .input-textarea{
@@ -2242,12 +2242,12 @@ for tabs and large phones
         background: #050505;
         border:none;
         color: whitesmoke;
-        font-family: poppins;
+        font-family: Lucida Sans;
         font-size: 18px;
     }
     form button{
         padding:8px 24px;
-        font-family: poppins;
+        font-family: Lucida Sans;
         font-size:20px;
         color: whitesmoke;
         opacity: .8;
