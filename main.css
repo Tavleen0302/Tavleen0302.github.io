@@ -292,15 +292,15 @@ body{
     }
 }
 .social-media-links{
-    height: auto;
+    height: 100vh;
     position: absolute;
     z-index: 2;
     padding: 60px;
-    width: 100vw;
+    width: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: bottom;
 }
 .social-media{
     color: white;
