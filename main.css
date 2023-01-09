@@ -667,7 +667,7 @@ body{
     transition: all .4s ease;
     width:100%;
     border-radius: 10px;
-    background:grey;
+    background:#c70039;
 }
 .js-progress{
     position: absolute;
@@ -681,7 +681,7 @@ body{
     transition: all .4s ease;
     width:100%;
     border-radius: 10px;
-    background: grey;
+    background: #c70039;
 }
 
 .c-progress{
@@ -695,7 +695,7 @@ body{
     transition: all .4s ease;
     width:100%;
     border-radius: 10px;
-    background: grey;
+    background: #c70039;
 }
 .java-progress{
     position: absolute;
@@ -708,7 +708,7 @@ body{
     width:100%;
     border-radius: 10px;
     transition: all .4s ease;
-    background: grey;
+    background: #c70039;
 }
 .portfolio-header{
     height: auto;
