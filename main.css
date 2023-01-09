@@ -486,7 +486,7 @@ body{
     font-family: aileron;
     font-weight: 400;
     font-size: 35px;
-    color: #c70039;
+    color: grey;
     transition: all .4s ease;
 }
 .cv {
@@ -573,9 +573,9 @@ body{
     margin: 20px;
     border-radius: 30%;
     padding: 10px;
-    border: 0px solid #c70039;
-    background: #c70039;
-    box-shadow:0px 0px 0px 0px #c70039 ;
+    border: 0px solid grey;
+    background: grey;
+    box-shadow:0px 0px 0px 0px grey ;
     height:100px;
     transition: all .8s ease;
 }
@@ -667,7 +667,7 @@ body{
     transition: all .4s ease;
     width:100%;
     border-radius: 10px;
-    background: #c70039;
+    background:grey;
 }
 .js-progress{
     position: absolute;
@@ -681,7 +681,7 @@ body{
     transition: all .4s ease;
     width:100%;
     border-radius: 10px;
-    background: #c70039;
+    background: grey;
 }
 
 .c-progress{
@@ -695,7 +695,7 @@ body{
     transition: all .4s ease;
     width:100%;
     border-radius: 10px;
-    background: #c70039;
+    background: grey;
 }
 .java-progress{
     position: absolute;
@@ -708,7 +708,7 @@ body{
     width:100%;
     border-radius: 10px;
     transition: all .4s ease;
-    background: #c70039;
+    background: grey;
 }
 .portfolio-header{
     height: auto;
@@ -767,7 +767,7 @@ padding-bottom: 40px;
     font-family: Lucida Sans;
     font-weight: 200;
     padding: 20px;
-    color: #c70039;
+    color: grey;
     transition: all .4s ease;
 }
 .portfolio-text p{
@@ -1265,7 +1265,7 @@ For devices with smaller width like mobile phone
     #breaker{
         height: 50vh;
         width: 200%;
-        background-color: #c70039;
+        background-color: grey;
         opacity: 1;
         animation: breakeranimate 2s linear;
         display: none;
@@ -1433,7 +1433,7 @@ For devices with smaller width like mobile phone
          display: none;
      }
      .service:hover .service-img img{
-         box-shadow:0px 0px 0px 0px #c70039 ;
+         box-shadow:0px 0px 0px 0px grey ;
      }
      .portfolio-image img{
          height: 300px;
@@ -1666,7 +1666,7 @@ for tabs and large phones
     #breaker{
         height: 50vh;
         width: 200%;
-        background-color: #c70039;
+        background-color: grey;
         opacity: 1;
         animation: breakeranimate 2s linear;
         display: none;
@@ -1850,7 +1850,7 @@ for tabs and large phones
                 display: none;
             }
             .service:hover .service-img img{
-                box-shadow:0px 0px 0px 0px #c70039 ;
+                box-shadow:0px 0px 0px 0px grey;
             }
             .portfolio-image img{
                 height: 380px;
