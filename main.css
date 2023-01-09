@@ -383,7 +383,7 @@ body{
 }
 
 .color{
-    color: #c70039;
+    color: grey;
     transition: all .4s ease;
 }
 #about{
