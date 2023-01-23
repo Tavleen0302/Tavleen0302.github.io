@@ -313,6 +313,7 @@ body{
 }
 .social-media:hover{
     opacity: 1;
+    cursor: pointer;
     transform: scale(1.1);
 }
 .navigation-links{
