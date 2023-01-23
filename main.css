@@ -294,6 +294,7 @@ body{
 .social-media-links{
     width: 100%;
         left: 0;
+        z-index: 2;
         bottom: 0;
         position: absolute;
         padding: 10px;
@@ -1248,6 +1249,7 @@ For devices with smaller width like mobile phone
         width: 100%;
         left: 0;
         bottom: 0;
+        z-index:2;
         position: absolute;
         padding: 10px;
         height: auto;
@@ -1648,6 +1650,7 @@ for tabs and large phones
     .social-media-links{
         width: 100%;
         left: 0;
+        z-index:2;
         bottom: 0;
         position: absolute;
         padding: 10px;
